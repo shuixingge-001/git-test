@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("测试中.....");
         System.out.println("测试中1....");
         System.out.println("测试中2....");
+        System.out.println("测试中3....");
     }
 }
